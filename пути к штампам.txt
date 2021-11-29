@@ -1,0 +1,1 @@
+Штампы хранятся в файле C:\ProgramData\DipTrace\Data_Unicode\userstamps.dat или в C:\Program Files (x86)\DipTrace\Data\stamps.dat
